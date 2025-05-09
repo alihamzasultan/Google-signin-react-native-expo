@@ -5,7 +5,7 @@ A simple and elegant **Googel signin Functionality** app built using **React Nat
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="Capture.PNG" width="250" alt="Home Screen" />
+  <img src="Capture.PNG" width="100%" alt="Home Screen" />
 </div>
 
 ## 🚀 Features
