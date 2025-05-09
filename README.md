@@ -1,4 +1,4 @@
-# 💰 Expense Tracker App
+# Google Login and Signup(React Native Expo)
 
 A simple and elegant **Googel signin Functionality** app built using **React Native** and **Expo**
 
